@@ -1,0 +1,1156 @@
+[
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "onchange",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "onkeyup",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "onblur",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "onclick",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Trình xử lý sự kiện thích hợp cho văn bản đầu vào trong số các tùy chọn dưới đây?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "onchange",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "onblur",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "onkeyup",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "onclick",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Trình xử lý sự kiện nào phù hợp để xử lý khi người dùng nhấp vào một phần tử?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "document.getElementById(\"p_name\").Value",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "document.getElementByName(\"name\").Value",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Có 2 đáp án đúng",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "document.login.uname.value",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Xác định đáp án chính xác để tìm nạp giá trị đã nhập trong trường văn bản tên người dùng? <pre><code class=\"language-html\">< body>\r\n< form name=\"login\">\r\n\tEnter Your Name< input value=\"Akash\" id=\"p_name\" name=\"uname\">\r\n< /form>\r\n< /body></code></pre>"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Document Onhalt Model",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Document Oriented Model",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Document Oriented Management",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Document Object Model",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "DOM là viết tắt của gì?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Mỗi trang có thể có nhiều đối tượng Document",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Các phần tử trong biểu mẫu có thể được truy cập bằng đối tượng biểu mẫu",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Đối tượng Window là thành phần nhỏ nhất trong DOM",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Chịu trách nhiệm bởi W3A",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Câu nào sau đây là ĐÚNG về DOM?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Làm cho tập lệnh trở thành mô-đun",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Cho phép truy cập vào một số khóa và phần tử",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Làm cho tập lệnh dễ dàng hơn",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Sửa đổi các nút",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Mục đích của Legacy DOM là gì?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Tập hợp các phần tử không có thứ tự",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Tập hợp các nút không có thứ tự",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Tập hợp các thuộc tính không có thứ tự",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Tập hợp các mảng không có thứ tự",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Đối tượng NamedNodeMap là gì?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Document Object",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Form Object",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Window Object",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Form Control Elements",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Đối tượng nào là đỉnh của hệ thống phân cấp DOM?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Stack",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Queue",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Hierarchy",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "List",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Các đối tượng được tổ chức như thế nào trong HTML DOM?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "<form onsubmit=\"false\" action=\"login.js\"> </form>",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "<form onsubmit=\"return true\" action=\" login.js\"> </form>",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "<form onsubmit=\"return false\" action=\" login.js\"> </form>",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "<form onsubmit=\"true\" action=\"login.js\"> </form >",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Muốn bỏ qua sự kiện submit của form thì viết thế nào?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "II, III, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "I, II, III, V",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Tất cả đều đúng",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "II, III, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Chọn phát biểu đúng về mô hình DOM trong javascript?I. Mỗi node trong DOM là 1 tag trong trang, hoặc 1 thuộc tính của tag, hoặc plaintext trong 1 tagII. Dùng Javascript tương tác vào DOM rất dễ dàng.III. Dùng Javascript có thể thêm node, xóa node, chọn node, lên node cha, xuống node con, tới node kế, chỉnh định dạng, chỉnh nội dung của node...IV. DOM là thuật ngữ để chỉ Javascript được dùng cho front-endV. DOM là mô hình các tag trong 1 tài liệu HTML."
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "II, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "III, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Tất cả đều đúng",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "I, II, III",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Đâu là các loại node có trong DOM?I. Text nodeII. Attribute nodeIII. Comment nodeIV. Element node"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Yêu cầu trình duyệt load lại trang web 18 phút sau",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Yêu cầu trình duyệt 30 phút sau khi load trang, sẽ load lại chính trang web đó",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Yêu cầu trình duyệt đóng lại sau 180 phút",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Lệnh lỗi, không chạy vì location không có hàm reload",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Giả sử lệnh sau được thêm vào tag head của 1 trang web. Điều gì sẽ xảy ra?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Back 4",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Back 2 hoặc Back 3",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Back 2 hoặc Back 4",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Back 1 hoặc Back 3",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637820372075797931_15.PNG",
+        "name": "Để back lại trang trước thì cần nhấn button nào bên dưới?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Print 2",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Print 1",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Print 2 hoặc Print 3",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Print 3",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            }
+        ],
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637820373149152884_16.PNG",
+        "name": "Nút nào bạn sẽ dùng khi muốn có 1 nút bấm để in trang web?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "II, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "I, III, IV",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Tất cả đều đúng",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "I, II, III",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Chọn phát biểu đúng về DOM? I. Giữa các node có mối quan hệ cha - con (parent, children) và anh em (siblings)II. DOM là 1 trong các chuẩn của tổ chức W3CIII. Có nhiều loại node trong DOM: text node, attribute node, comment node , document node…IV. DOM định nghĩa các đối tượng, thuộc tính của các tag HTML và các hàm để truy cập đến chúng. Nhờ đó chúng ta mới có thể chọn, thay đổi, thêm, xóa các tag HTML"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "Bill = 36083000",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "Bill = 33091500",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Throw error",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "Bill = 38970000",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            }
+        ],
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637820376767156778_19.PNG",
+        "name": "Kết quả Bill sẽ có giá trị bao nhiêu?"
+    },
+    {
+        "answers": [
+            {
+                "id": 2,
+                "content": "I, IV, VI, VII",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 3,
+                "content": "III, V, VI",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "Tất cả đều đúng",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "I, II, III, VII",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            }
+        ],
+        "image": null,
+        "name": "Những thuộc tính html nào hỗ trợ kiểm tra dữ liệu trong form? I. minII. maxlengthIII. minlengthIV. alignV. widthVI. classVII. max"
+    },
+    {
+        "answers": [
+            {
+                "id": 3,
+                "content": "document.getElementsByName(\"size\")[0].checked==false  &&  document.getElementsByName(\"size\")[1].checked==false &&    document.getElementsByName(\"size\")[2].checked==false",
+                "image": null,
+                "priority": 0,
+                "isCorrect": true,
+                "order": 0
+            },
+            {
+                "id": 4,
+                "content": "document.getElementsByName(\"size\")[.checked==false",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 5,
+                "content": "document.getElementsByName(\"size\")[0].checked==true &&  document.getElementsByName(\"size\")[1].checked==true &&    document.getElementsByName(\"size\")[2].checked==true",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            },
+            {
+                "id": 1,
+                "content": "document.getElementsByName(\"size\")[0].checked==false  ||  document.getElementsByName(\"size\")[1].checked==false  ||  document.getElementsByName(\"size\")[2].checked==false",
+                "image": null,
+                "priority": 0,
+                "isCorrect": false,
+                "order": 0
+            }
+        ],
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637820375868180513_18.PNG",
+        "name": "Bạn cần thay doSomething bằng đoạn mã nào bên dưới để thông báo cho người dùng khi người dùng chưa chọn size?"
+    },
+    {
+        "name": "Kết quả của đoạn mã sau là gì? ",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668728214416398_1.PNG",
+        "answers": [
+            {
+                "content": "ReferenceError và 21",
+                "isCorrect": false
+            },
+            {
+                "content": "Truong Toan và undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "Truong Toan and ReferenceError",
+                "isCorrect": false
+            },
+            {
+                "content": "undefined và ReferenceError",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "name": "Chọn kết quả đúng cho câu lệnh console.log trong mã sau?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668730765256289_2.PNG",
+        "answers": [
+            {
+                "content": "0 1 2 và 3 3 3",
+                "isCorrect": false
+            },
+            {
+                "content": "3 3 3 và 3 3 3",
+                "isCorrect": false
+            },
+            {
+                "content": "3 3 3 và 0 1 2",
+                "isCorrect": true
+            },
+            {
+                "content": "0 1 2 và 0 1 2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output của chương trình sau là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668732848332568_3.png",
+        "answers": [
+            {
+                "content": "0 và false",
+                "isCorrect": true
+            },
+            {
+                "content": "false và true",
+                "isCorrect": false
+            },
+            {
+                "content": "true và true",
+                "isCorrect": false
+            },
+            {
+                "content": "1 và true",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Đâu không phải là điểm mới trong phiên bản ES6?",
+        "image": null,
+        "answers": [
+            {
+                "content": "Let\/const",
+                "isCorrect": false
+            },
+            {
+                "content": "Callback",
+                "isCorrect": true
+            },
+            {
+                "content": "Class",
+                "isCorrect": false
+            },
+            {
+                "content": "Arrow function",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Tất cả các object đều có prototypes? ",
+        "image": null,
+        "answers": [
+            {
+                "content": "Sai",
+                "isCorrect": true
+            },
+            {
+                "content": "Đúng",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Điều gì sẽ xảy ra khi làm điều này? ",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668736939406267_5.PNG",
+        "answers": [
+            {
+                "content": "SyntaxError",
+                "isCorrect": false
+            },
+            {
+                "content": "Không xảy ra gì cả",
+                "isCorrect": true
+            },
+            {
+                "content": "undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "ReferenceError",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Hãy cho biết kết quả được in ra từ đoạn mã sau?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668928893420096_7.PNG",
+        "answers": [
+            {
+                "content": "Hi, Toan",
+                "isCorrect": false
+            },
+            {
+                "content": "Tell me your name",
+                "isCorrect": true
+            },
+            {
+                "content": "ReferenceError",
+                "isCorrect": false
+            },
+            {
+                "content": "Hello, Toan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output nhận được từ đoạn mã sau là gì? ",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668740214987368_8.PNG",
+        "answers": [
+            {
+                "content": "21",
+                "isCorrect": false
+            },
+            {
+                "content": "undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "TypeError",
+                "isCorrect": false
+            },
+            {
+                "content": "Reference error",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "name": "Biến key_secret sẽ truy cập được trong bao lâu?sessionStorage.setItem(\"cool_secret\", 123);",
+        "image": null,
+        "answers": [
+            {
+                "content": "Khi người dùng tắt máy tính đi.",
+                "isCorrect": false
+            },
+            {
+                "content": "Khi user đóng tab lại",
+                "isCorrect": true
+            },
+            {
+                "content": "Dữ liệu sẽ không bao giờ mất",
+                "isCorrect": false
+            },
+            {
+                "content": "Khi người dùng không chỉ là đóng tab, mà đóng browser lại",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Đoạn mã dưới đây sẽ in ra kết quả nào?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668743177940092_10.PNG",
+        "answers": [
+            {
+                "content": "false true false true",
+                "isCorrect": false
+            },
+            {
+                "content": "false true true true",
+                "isCorrect": false
+            },
+            {
+                "content": "true true true true",
+                "isCorrect": false
+            },
+            {
+                "content": "true true false true",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "name": "Kết quả nhận được từ đoạn mã sau là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668744524582978_11.PNG",
+        "answers": [
+            {
+                "content": "123",
+                "isCorrect": false
+            },
+            {
+                "content": "undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "456",
+                "isCorrect": true
+            },
+            {
+                "content": "ReferenceError",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Kết quả nhận được từ đoạn mã sau là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668746265158267_12.PNG",
+        "answers": [
+            {
+                "content": "First Third Second",
+                "isCorrect": true
+            },
+            {
+                "content": "Second First Third",
+                "isCorrect": false
+            },
+            {
+                "content": "Second Third First",
+                "isCorrect": false
+            },
+            {
+                "content": "First Second Third",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output nhận được từ đoạn mã sau là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668747777622286_13.PNG",
+        "answers": [
+            {
+                "content": "function function",
+                "isCorrect": false
+            },
+            {
+                "content": "Toan is 21 function",
+                "isCorrect": true
+            },
+            {
+                "content": "Toan is 21 Toan is 21",
+                "isCorrect": false
+            },
+            {
+                "content": "undefined is 21 Toan is 21",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output nhận được từ đoạn mã sau là gì?(gợi ý: chú ý hoạt động của toán tử Spread và xác định chính xác giá trị trả về của typeof x)",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668749944707401_14.PNG",
+        "answers": [
+            {
+                "content": "true",
+                "isCorrect": true
+            },
+            {
+                "content": "-1",
+                "isCorrect": false
+            },
+            {
+                "content": "false",
+                "isCorrect": false
+            },
+            {
+                "content": "1",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Kết quả nhận được khi thực thi đoạn mã bên dưới là gì? (Chú ý: từ khóa static, phương thức assign và keys của Object)",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668751888210385_15.PNG",
+        "answers": [
+            {
+                "content": "6",
+                "isCorrect": false
+            },
+            {
+                "content": "4",
+                "isCorrect": true
+            },
+            {
+                "content": "5",
+                "isCorrect": false
+            },
+            {
+                "content": "7",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Kết quả nhận được khi thực thi đoạn mã bên dưới là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668752871268420_16.PNG",
+        "answers": [
+            {
+                "content": "true true true",
+                "isCorrect": false
+            },
+            {
+                "content": "false false true",
+                "isCorrect": false
+            },
+            {
+                "content": "true true false",
+                "isCorrect": true
+            },
+            {
+                "content": "true false true",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output đoạn mã bên dưới là gì?",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668754148090220_17.PNG",
+        "answers": [
+            {
+                "content": "2",
+                "isCorrect": true
+            },
+            {
+                "content": "true",
+                "isCorrect": false
+            },
+            {
+                "content": "undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "['apple', 'banana']",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output đoạn mã bên dưới là gì?(Chú ý: hoạt động của promise, async\/await trong Javascript)",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668755345938795_18.PNG",
+        "answers": [
+            {
+                "content": "I have resolved!, second và I have resolved!, second",
+                "isCorrect": false
+            },
+            {
+                "content": "second, I have resolved! và second, I have resolved!",
+                "isCorrect": false
+            },
+            {
+                "content": "I have resolved!, second và second, I have resolved!",
+                "isCorrect": false
+            },
+            {
+                "content": "second, I have resolved! và I have resolved!, second",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "name": "Output đoạn mã bên dưới là gì? (Chú ý hoạt động của hàm setTimeout(), promise)",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668758022736696_19.PNG",
+        "answers": [
+            {
+                "content": "16, 3, 2, 256",
+                "isCorrect": false
+            },
+            {
+                "content": "3, 16, 256, 2",
+                "isCorrect": false
+            },
+            {
+                "content": "3, 2, 256, 16",
+                "isCorrect": true
+            },
+            {
+                "content": "3, 2, 256, 256",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "name": "Output đoạn mã bên dưới là gì? (Chú ý: async\/await, promise, từ khóa yield)",
+        "image": "https:\/\/api.kquiz.vn\/\/Upload\/Question\/637668760640122549_20.PNG",
+        "answers": [
+            {
+                "content": "Promise {&lt;pending&gt;} Promise {&lt;pending&gt;} Promise {&lt;pending&gt;}",
+                "isCorrect": false
+            },
+            {
+                "content": "1 2 3",
+                "isCorrect": true
+            },
+            {
+                "content": "undefined undefined undefined",
+                "isCorrect": false
+            },
+            {
+                "content": "Promise {1} Promise {2} Promise {3}",
+                "isCorrect": false
+            }
+        ]
+    }
+]
